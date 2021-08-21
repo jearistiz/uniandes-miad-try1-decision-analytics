@@ -34,6 +34,7 @@ The components of a decision problem are:
     * alternatives
 
 A good decision analysis consists of:
+
     * conceptual knowledge
     * creative alternatives
     * relevant and good information
